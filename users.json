@@ -1,0 +1,111 @@
+{
+    "users": [
+        {
+            "email": "Phuong@gmail.com",
+            "password": "111222333",
+            "createdAt": 1619809158479,
+            "updateAt": 1619809158479,
+            "id": 1
+        },
+        {
+            "email": "PhuongPhi123@gmail.com",
+            "password": "123123123",
+            "createdAt": 1619864024930,
+            "updateAt": 1619864024930,
+            "id": 2
+        },
+        {
+            "email": "phiphi95@gmail.com",
+            "password": "123123",
+            "createdAt": 1619864316124,
+            "updateAt": 1619864316124,
+            "id": 3
+        },
+        {
+            "email": "email@gmail.com",
+            "password": "12312313",
+            "createdAt": 1619864743194,
+            "updateAt": 1619864743194,
+            "id": 4
+        },
+        {
+            "email": "emailtest@gmail.com",
+            "password": "test123456",
+            "createdAt": 1619864957366,
+            "updateAt": 1619864957366,
+            "id": 5
+        },
+        {
+            "email": "Phuong1234@gmail.com",
+            "password": "131313",
+            "createdAt": 1619871781360,
+            "updateAt": 1619871781360,
+            "id": 6
+        },
+        {
+            "email": "qeqwe@gmail.com",
+            "password": "23131331",
+            "createdAt": 1619871818026,
+            "updateAt": 1619871818027,
+            "id": 7
+        },
+        {
+            "email": "hello@gmail.com",
+            "password": "312323132",
+            "createdAt": 1619871886149,
+            "updateAt": 1619871886149,
+            "id": 8
+        },
+        {
+            "email": "PHIPHI@gmail.com",
+            "password": "23213123",
+            "createdAt": 1619873320218,
+            "updateAt": 1619873320218,
+            "id": 9
+        },
+        {
+            "email": "PHPH@gmail.com",
+            "password": "23213123",
+            "createdAt": 1619873388272,
+            "updateAt": 1619873388272,
+            "id": 10
+        },
+        {
+            "email": "a113@gmail.com",
+            "password": "313213",
+            "createdAt": 1619886073250,
+            "updateAt": 1619886073250,
+            "id": 11
+        },
+        {
+            "email": "phi23123@gmail.com",
+            "password": "2321332",
+            "createdAt": 1619886237725,
+            "updateAt": 1619886237725,
+            "id": 12
+        },
+        {
+            "id": 13,
+            "email": "Phuong2021@gmail.com",
+            "password": "111222333",
+            "createdAt": 1619891878948,
+            "updateAt": 1619891878948
+        },
+        {
+            "id": 14,
+            "email": "Phuong2020@gmail.com",
+            "password": "111222333",
+            "createdAt": 1619891966485,
+            "updateAt": 1619891966485
+        },
+        {
+            "id": 15,
+            "email": "Phuong2019@gmail.com",
+            "password": "111222333",
+            "createdAt": 1619892029667,
+            "updateAt": 1619892029667
+        }
+    ],
+    "sign-up": [],
+    "login": []
+}
